@@ -3,6 +3,8 @@ Kukulc-n-Interactive-Std.
 </h1>
 <div align="center">
 Proyect FIS
+</div>
 <div align="LEFT">
   - Josemaría conde Chabarría 
   - José Luis Basulto Cámara
+</div>
