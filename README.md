@@ -4,7 +4,11 @@ Kukulc-n-Interactive-Std.
 <div align="center">
 Proyect FIS
 </div>
+#Integrantes
 
   - Josemaría conde Chabarría 
   - José Luis Basulto Cámara
-  -
+  
+#Fumciones
+
+Aquí irían las funciones, no mover.
