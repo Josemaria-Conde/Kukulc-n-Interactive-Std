@@ -3,7 +3,8 @@ Kukulc-n-Interactive-Std.
 </h1>
 <div align="center">
 Proyect FIS.
-
+  
+</div>
 # Integrantes
 
   - Josemaría conde Chabarría.
@@ -12,3 +13,5 @@ Proyect FIS.
 # Funciones
 
 Aquí irían las funciones, no mover.
+
+</div>
