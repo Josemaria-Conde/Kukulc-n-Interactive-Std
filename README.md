@@ -8,10 +8,6 @@ Proyect FIS.
 
 <a name="top"></a>
 
-<br/>
-
-> [!IMPORTANT]
-.
 # Integrantes
 
 - Josemaría conde Chabarría
