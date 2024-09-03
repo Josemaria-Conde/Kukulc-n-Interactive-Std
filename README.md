@@ -13,7 +13,7 @@ Proyect FIS.
 - Josemaría conde Chabarría
 - José Luis Basulto Cámara
 - Mauricio Antonio De lázaro Lara
-- Nombre de alguien más
+- Nombre de alguien más.
 
 # Funciones
 
