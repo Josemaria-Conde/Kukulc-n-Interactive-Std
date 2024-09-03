@@ -14,6 +14,7 @@ Proyect FIS.
 - José Luis Basulto Cámara
 - Mauricio Antonio De lázaro Lara
 - Christopher May Paat
+- Juan Angel Canché Góngora
 
 # Funciones
 
