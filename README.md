@@ -9,11 +9,12 @@ Proyect FIS.
 <a name="top"></a>
 
 <br/>
+>Archivo presentación.
 
 # Integrantes
 
-  - Josemaría conde Chabarría.
-  - José Luis Basulto Cámara.
+- Josemaría conde Chabarría.
+- José Luis Basulto Cámara.
   
 # Funciones
 
