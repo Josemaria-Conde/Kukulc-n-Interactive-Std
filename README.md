@@ -2,9 +2,17 @@
 Kukulc-n-Interactive-Std.
 </h1>
 <div align="center">
-Proyect FIS
-<div align="LEFT">
-  - Josemaría conde Chabarría
-  - José Luis Basulto Cámara
+Proyect FIS.
+  
+</div>
+.
+# Integrantes
 
-- Mauricio Antonio De lázaro Lara
+  - Josemaría conde Chabarría.
+  - José Luis Basulto Cámara.
+  
+# Funciones
+
+Aquí irían las funciones, no mover.
+
+</div>
